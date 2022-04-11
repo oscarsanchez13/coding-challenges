@@ -11,7 +11,7 @@ __Difficulty Levels solved__
  :black_circle: Very Hard: 0  
  :star: Good to review
 
- __Total:__ 1
+ __Total:__ 2
 
 ## Day 0
 Adding solutions to all problems I have already completed
