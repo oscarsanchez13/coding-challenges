@@ -5,13 +5,13 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 1  
- :large_blue_circle: Medium: 1  
+ :white_circle: Easy: 2
+ :large_blue_circle: Medium: 2  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
  :star: Good to review
 
- __Total:__ 2
+ __Total:__ 4
 
 ## Day 0
 Adding solutions to all problems I have already completed
@@ -37,3 +37,10 @@ __Focus for today:__ 8 kyu problems
  #### LeetCode
 1. :large_blue_circle: :star: [break-camelCase.js](Codewars/6-kyu/break-camelCase.js) 
 2. :white_circle: [how-good-are-you-really.js](Codewars/8-kyu/how-good-are-you-really.js)
+
+## Day 1: April 12, 2021
+__Focus for today:__ 8 kyu problems
+
+#### Codewars
+3. :large_blue_circle: :star: [check-same-case.js](Codewars/8-kyu/check-same-case.js)
+4. :white_circle: [fundamentals-return.js](Codewars/8-kyu/fundamentals-return.js)
