@@ -1,7 +1,8 @@
 /*
 Description:
 
-Make multiple functions that will return the sum, difference, modulus, product, quotient, and the exponent respectively.
+Make multiple functions that will return the sum, difference, 
+modulus, product, quotient, and the exponent respectively.
 
 Please use the following function names:
 
