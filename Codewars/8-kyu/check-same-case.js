@@ -19,7 +19,7 @@ Examples
 '0' and '?' returns -1
 */
 
-//   solution 1
+// Solution 1
 function sameCase(a, b){
     if((a.replace(/[^a-zA-Z]/g, '1') == a.toUpperCase() && b.replace(/[^a-zA-Z]/g, '1') == b.toUpperCase()) ||
      (a.replace(/[^a-zA-Z]/g, '1') == a.toLowerCase() && b.replace(/[^a-zA-Z]/g, '1') == b.toLowerCase())) {
@@ -32,7 +32,7 @@ function sameCase(a, b){
     }
   }
 
-//   solution 2
+// Solution 2
 function sameCase(a, b){
     if (/[a-zA-Z]/.test(a) === false || /[a-zA-Z]/.test(b) === false) return -1;
     if ((a === a.toUpperCase() && b !== b.toUpperCase()) || (a !== a.toUpperCase() && b === b.toUpperCase())) return 0;
