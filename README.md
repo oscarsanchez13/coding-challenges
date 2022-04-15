@@ -5,14 +5,14 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 3  
- :large_blue_circle: Medium: 3  
+ :white_circle: Easy: 4  
+ :large_blue_circle: Medium: 4  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1
  :star: Good to review
 
- __Total Challenges:__ 6
+ __Total Challenges:__ 8
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -60,8 +60,16 @@ __Focus for today:__ 6-8 kyu problems
 7. :large_blue_circle: [multiples-of-3-or-5.js](Codewars/6-kyu/multiples-of-3-or-5.js)
 
 
-<!-- ## Day 3: April 14, 2021
+## Day 3: April 14, 2021
 __Focus for today:__ 6 kyu problems
+
+#### Codewars
+8. :white_circle: [change-it-up.js](Codewars/6-kyu/change-it-up.js)
+<!-- 9. :large_blue_circle: [roman-numerals-decoder.js](Codewars/6-kyu/roman-numerals-decoder.js)  -->
+
+
+<!-- ## Day 3: April 15, 2021
+__Focus for today:__ 8 kyu problems
 
 #### Codewars
 8. :white_circle: [to-squareroot-or-not-to-squareroot.js](Codewars/8-kyu/to-squareroot-or-not-to-squareroot.js)
