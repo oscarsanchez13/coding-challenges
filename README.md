@@ -65,7 +65,7 @@ __Focus for today:__ 6 kyu problems
 
 #### Codewars
 8. :white_circle: [change-it-up.js](Codewars/6-kyu/change-it-up.js)
-<!-- 9. :large_blue_circle: [roman-numerals-decoder.js](Codewars/6-kyu/roman-numerals-decoder.js)  -->
+9. :large_blue_circle: [roman-numerals-decoder.js](Codewars/6-kyu/roman-numerals-decoder.js) 
 
 
 <!-- ## Day 3: April 15, 2021
