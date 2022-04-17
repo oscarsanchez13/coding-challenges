@@ -73,7 +73,7 @@ __Focus for today:__ 7 kyu problems
 
 #### Codewars
 10. :white_circle: [chain-me.js](Codewars/7-kyu/chain-me.js)
-11. :large_blue_circle: [nth-root-of-a-number.js](Codewars/7-kyu/nth-root-of-a-number.js)
+11. :large_blue_circle: :star: [nth-root-of-a-number.js](Codewars/7-kyu/nth-root-of-a-number.js)
 
 
 ## Day 5: April 16, 2022
@@ -81,4 +81,4 @@ __Focus for today:__ 7 kyu problems
 
 #### Codewars
 12. :white_circle: [sort-numbers.js](Codewars/7-kyu/sort-numbers.js)
-13. :large_blue_circle: [you-got-change.js](Codewars/7-kyu/you-got-change.js)
+13. :large_blue_circle: :star: [you-got-change.js](Codewars/7-kyu/you-got-change.js)
