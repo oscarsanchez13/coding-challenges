@@ -1,23 +1,23 @@
 # Interview Preparation
-My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Algoexpert, Cracking the Coding Interview, Pramp and other interview preparation websites. I will be adding my solutions to this repository every day starting April 11, 2021.
+My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Algoexpert, Cracking the Coding Interview, Pramp and other interview preparation websites. I will be adding my solutions to this repository every day starting April 11, 2022.
 
 ![alt rank](https://www.codewars.com/users/oscarsanchez13/badges/large)
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 4  
- :large_blue_circle: Medium: 4  
+ :white_circle: Easy: 5  
+ :large_blue_circle: Medium: 5  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1
  :star: Good to review
 
- __Total Challenges:__ 8    
+ __Total Challenges:__ 10    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
 
- ## Day 1: April 11, 2021
+ ## Day 1: April 11, 2022
 __Focus for today:__ 8-6 kyu problems
 
 #### Codewars
@@ -41,7 +41,7 @@ Adding solutions to all problems I have already completed
 2. :white_circle: [how-good-are-you-really.js](Codewars/8-kyu/how-good-are-you-really.js)
 
 
-## Day 1: April 12, 2021
+## Day 1: April 12, 2022
 __Focus for today:__ 8 kyu problems & Practice Interview
 
 #### Codewars
@@ -52,7 +52,7 @@ __Focus for today:__ 8 kyu problems & Practice Interview
 5. :vs: [1-behavioral-interview.md](Pramp/Behavioral/interview-1.md)
 
 
-## Day 2: April 13, 2021
+## Day 2: April 13, 2022
 __Focus for today:__ 6-8 kyu problems
 
 #### Codewars
@@ -60,7 +60,7 @@ __Focus for today:__ 6-8 kyu problems
 7. :large_blue_circle: [multiples-of-3-or-5.js](Codewars/6-kyu/multiples-of-3-or-5.js)
 
 
-## Day 3: April 14, 2021
+## Day 3: April 14, 2022
 __Focus for today:__ 6 kyu problems
 
 #### Codewars
@@ -68,9 +68,17 @@ __Focus for today:__ 6 kyu problems
 9. :large_blue_circle: [roman-numerals-decoder.js](Codewars/6-kyu/roman-numerals-decoder.js) 
 
 
-<!-- ## Day 3: April 15, 2021
-__Focus for today:__ 8 kyu problems
+## Day 4: April 15, 2022
+__Focus for today:__ 7 kyu problems
 
 #### Codewars
-8. :white_circle: [to-squareroot-or-not-to-squareroot.js](Codewars/8-kyu/to-squareroot-or-not-to-squareroot.js)
-9. :large_blue_circle: [multiples-of-3-or-5.js](Codewars/6-kyu/multiples-of-3-or-5.js) -->
+10. :white_circle: [chain-me.js](Codewars/7-kyu/chain-me.js)
+11. :large_blue_circle: [nth-root-of-a-number.js](Codewars/7-kyu/nth-root-of-a-number.js)
+
+
+## Day 5: April 16, 2022
+__Focus for today:__ 7 kyu problems
+
+#### Codewars
+12. :white_circle: [sort-numbers.js](Codewars/7-kyu/sort-numbers.js)
+13. :large_blue_circle: [you-got-change.js](Codewars/7-kyu/you-got-change.js)
