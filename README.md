@@ -84,7 +84,7 @@ __Focus for today:__ 7 kyu problems
 13. :large_blue_circle: :star: [you-got-change.js](Codewars/7-kyu/you-got-change.js)
 
 
-## Day 5: April 17, 2022
+## Day 6: April 17, 2022
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
@@ -92,7 +92,7 @@ __Focus for today:__ 8 kyu problems
 15. :white_circle: [find-multiples-of-a-number.js](Codewars/8-kyu/find-multiples-of-a-number.js)
 
 
-## Day 6: April 18, 2022
+## Day 7: April 18, 2022
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
