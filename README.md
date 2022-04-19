@@ -5,14 +5,14 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 9  
- :large_blue_circle: Medium: 6  
+ :white_circle: Easy: 8  
+ :large_blue_circle: Medium: 7  
  :red_circle: Hard: 1  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 14    
+ __Total Challenges:__ 16    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -97,4 +97,4 @@ __Focus for today:__ 8 kyu problems
 
 #### Codewars
 16. :white_circle: [short-long-short.js](Codewars/8-kyu/short-long-short.js)
-<!-- 17. :large_blue_circle: :star: [you-got-change.js](Codewars/8-kyu/you-got-change.js) -->
+17. :large_blue_circle: :star: [capitalization-and-mutability.js](Codewars/8-kyu/capitalization-and-mutability.js)
