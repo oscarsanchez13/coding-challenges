@@ -5,14 +5,14 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 9  
+ :white_circle: Easy: 10  
  :large_blue_circle: Medium: 7  
  :red_circle: Hard: 1  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 17    
+ __Total Challenges:__ 18    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -105,3 +105,4 @@ __Focus for today:__ 7 kyu problems
 
 #### Codewars
 18. :white_circle: [simple-string-characters.js](Codewars/7-kyu/simple-string-characters.js)
+19. :white_circle: [filter-unused-digits.js](Codewars/7-kyu/filter-unused-digits.js)
