@@ -16,7 +16,25 @@ types being passed to the function. The string lengths will be
 from 1 character up to 10 characters, but will never be empty.
 */
 
+// Solution 1
 function capitalizeWord(word) {
-    word[0].toUpperCase();
-    return word;
+    return word[0].toUpperCase() + word.slice(1);
 }
+
+// Arroy Function of Solution 1 
+const capitalizeWord = word => word[0].toUpperCase()+word.slice(1);
+
+// Solution 2
+function capitalizeWord(word){
+    let first = word[0].toUpperCase();
+    return first + word.slice(1);
+}
+
+// Solution 3
+function capitalizeWord(word) {
+    let cap = word[0].toUpperCase();
+    for (let i = 1; i<word.length; i++) {
+    cap += word[i];
+    }
+    return cap;
+  }

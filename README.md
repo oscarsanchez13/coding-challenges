@@ -89,7 +89,7 @@ __Focus for today:__ 8 kyu problems
 
 #### Codewars
 14. :large_blue_circle: :star: [stringy-strings.js](Codewars/8-kyu/stringy-strings.js)
-15. :white_circle: [find-multiples-of-a-number.js](Codewars/8-kyu/find-multiples-of-a-number.js)
+15. :white_circle: :star: [find-multiples-of-a-number.js](Codewars/8-kyu/find-multiples-of-a-number.js)
 
 
 ## Day 7: April 18, 2022

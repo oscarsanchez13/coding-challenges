@@ -15,6 +15,20 @@ up to 6.
 If you can, try writing it in only one line of code.
 */
 
+// Solution 1
 function findMultiples(integer, limit) {
-    //your code here
+    let res = [];
+    for(let i = integer; i <= limit; i+=integer){
+        res.push(i) // or res[i-1] = i
+    }
+    return res;
+}
+
+// Solution 2
+function findMultiples(integer,limit){
+    let res = [];
+    for(let i = 1  ;i*integer <= limit;i++){
+      res.push(i*integer) // or res[i-1] = i*integer
+    }
+    return res;
 }
