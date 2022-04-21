@@ -5,7 +5,7 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 10  
+ :white_circle: Easy: 12  
  :large_blue_circle: Medium: 7  
  :red_circle: Hard: 1  
  :black_circle: Very Hard: 0  
@@ -106,3 +106,11 @@ __Focus for today:__ 7 kyu problems
 #### Codewars
 18. :white_circle: [simple-string-characters.js](Codewars/7-kyu/simple-string-characters.js)
 19. :white_circle: [filter-unused-digits.js](Codewars/7-kyu/filter-unused-digits.js)
+
+
+## Day 9: April 20, 2022
+__Focus for today:__ 8 kyu problems
+
+#### Codewars
+20. :white_circle: [parse-nice-int.js](Codewars/8-kyu/parse-nice-int.js)
+21. :white_circle: [freudian-translator.js](Codewars/8-kyu/freudian-translator.js)
