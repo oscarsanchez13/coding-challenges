@@ -7,12 +7,12 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 12  
  :large_blue_circle: Medium: 7  
- :red_circle: Hard: 1  
+ :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 18    
+ __Total Challenges:__ 22    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -114,3 +114,11 @@ __Focus for today:__ 8 kyu problems
 #### Codewars
 20. :white_circle: [parse-nice-int.js](Codewars/8-kyu/parse-nice-int.js)
 21. :white_circle: [freudian-translator.js](Codewars/8-kyu/freudian-translator.js)
+
+
+## Day 10: April 21, 2022
+__Focus for today:__ 6 kyu problems
+
+#### Codewars
+22. :red_circle: [bread-sandwiches.js](Codewars/6-kyu/bread-sandwiches.js)
+23. :red_circle: [how-many-pages-in-a-book.js](Codewars/6-kyu/how-many-pages-in-a-book.js)
