@@ -122,3 +122,11 @@ __Focus for today:__ 6 kyu problems
 #### Codewars
 22. :red_circle: [bread-sandwiches.js](Codewars/6-kyu/bread-sandwiches.js)
 23. :red_circle: [how-many-pages-in-a-book.js](Codewars/6-kyu/how-many-pages-in-a-book.js)
+
+
+<!-- ## Day 11: April 22, 2022
+__Focus for today:__ 7 kyu problems
+
+#### Codewars
+24. :red_circle: [bread-sandwiches.js](Codewars/7-kyu/bread-sandwiches.js)
+25. :red_circle: [how-many-pages-in-a-book.js](Codewars/7-kyu/how-many-pages-in-a-book.js) -->
