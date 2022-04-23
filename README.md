@@ -5,14 +5,14 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 12  
+ :white_circle: Easy: 14  
  :large_blue_circle: Medium: 7  
  :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 22    
+ __Total Challenges:__ 24    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -124,9 +124,9 @@ __Focus for today:__ 6 kyu problems
 23. :red_circle: [how-many-pages-in-a-book.js](Codewars/6-kyu/how-many-pages-in-a-book.js)
 
 
-<!-- ## Day 11: April 22, 2022
+## Day 11: April 22, 2022
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
-24. :red_circle: [bread-sandwiches.js](Codewars/7-kyu/bread-sandwiches.js)
-25. :red_circle: [how-many-pages-in-a-book.js](Codewars/7-kyu/how-many-pages-in-a-book.js) -->
+24. :white_circle: [narcissistic-numbers.js](Codewars/7-kyu/narcissistic-numbers.js)
+25. :white_circle: [.js](Codewars/7-kyu/.js)
