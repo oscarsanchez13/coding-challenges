@@ -5,8 +5,8 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 14  
- :large_blue_circle: Medium: 7  
+ :white_circle: Easy: 13  
+ :large_blue_circle: Medium: 8  
  :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
@@ -129,4 +129,12 @@ __Focus for today:__ 7 kyu problems
 
 #### Codewars
 24. :white_circle: [narcissistic-numbers.js](Codewars/7-kyu/narcissistic-numbers.js)
-25. :white_circle: [.js](Codewars/7-kyu/.js)
+25. :large_blue_circle: [find-the-vowel.js](Codewars/7-kyu/find-the-vowel.js)
+
+
+<!-- ## Day 12: April 23, 2022
+__Focus for today:__ 7 kyu problems
+
+#### Codewars
+26. :white_circle: [narcissistic-numbers.js](Codewars/7-kyu/narcissistic-numbers.js)
+27. :large_blue_circle: [find-the-vowel.js](Codewars/7-kyu/find-the-vowel.js) -->
