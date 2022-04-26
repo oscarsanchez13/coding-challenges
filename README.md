@@ -146,3 +146,11 @@ __Focus for today:__ 7 kyu problems
 #### Codewars
 28. :white_circle: [narcissistic-numbers.js](Codewars/7-kyu/narcissistic-numbers.js)
 29. :large_blue_circle: [find-the-vowel.js](Codewars/7-kyu/find-the-vowel.js) -->
+
+
+<!-- ## Day 14: April 25, 2022
+__Focus for today:__ 7 kyu problems
+
+#### Codewars
+30. :white_circle: [narcissistic-numbers.js](Codewars/7-kyu/narcissistic-numbers.js)
+31. :large_blue_circle: [find-the-vowel.js](Codewars/7-kyu/find-the-vowel.js) -->
