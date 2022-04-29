@@ -140,12 +140,12 @@ __Focus for today:__ 7 kyu problems
 27. :large_blue_circle: [atm.js](Codewars/7-kyu/atm.js)
 
 
-<!-- ## Day 13: April 24, 2022
-__Focus for today:__ 7 kyu problems
+## Day 13: April 24, 2022
+__Focus for today:__ 6 kyu problems
 
 #### Codewars
-28. :white_circle: [.js](Codewars/7-kyu/.js)
-29. :large_blue_circle: [.js](Codewars/7-kyu/.js) -->
+28. :large_blue_circle: [ip-validation.js](Codewars/6-kyu/ip-validation.js)
+29. :large_blue_circle: [return-a.js](Codewars/6-kyu/return-a.js)
 
 
 <!-- ## Day 14: April 25, 2022
