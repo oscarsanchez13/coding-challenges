@@ -10,4 +10,5 @@ There are only two tests.
 
 */
 
-// x=
+// Use JSFuck to solve
+x=(![]+[])[+!+[]]
