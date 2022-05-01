@@ -25,6 +25,32 @@ empty string, or no arguments, should result in the ouput being
 ""(empty string).
 */
 
+// Solution 1
 function toFreud(string) {
-    return result;
+    return string.replace(/\w+/g,"sex");
+}
+
+// Solution 2
+function toFreud(string) {
+    if(string === ''){
+        return string;
+    }
+    result = string.split(' ');
+    for(let i=0; i < result.length; i++){
+      result[i] = 'sex';
+    }
+    return result.join(' ');
+}
+
+// Solution 3
+function toFreud(string) {  
+    if(string === ''){
+      return string;
+    }
+    let arr = string.split(' ')
+    let result = []  
+    for(let i = 0; i < arr.length; i++){
+        result.push('sex')  
+    }  
+    return result.join(' ')
 }
