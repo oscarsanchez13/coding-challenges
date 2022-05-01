@@ -5,14 +5,14 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 13  
- :large_blue_circle: Medium: 8  
+ :white_circle: Easy: 18  
+ :large_blue_circle: Medium: 13  
  :red_circle: Hard: 3  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 24    
+ __Total Challenges:__ 34    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -147,26 +147,27 @@ __Focus for today:__ 6 kyu problems
 28. :large_blue_circle: [ip-validation.js](Codewars/6-kyu/ip-validation.js)
 29. :large_blue_circle: [return-a.js](Codewars/6-kyu/return-a.js)
 
+<!-- --------------------- FILL ---------------------- -->
 
-<!-- ## Day 14: April 25, 2022
+## Day 14: April 25, 2022
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
 30. :white_circle: [.js](Codewars/7-kyu/.js)
-31. :large_blue_circle: [.js](Codewars/7-kyu/.js) -->
+31. :large_blue_circle: [.js](Codewars/7-kyu/.js)
 
 
-<!-- ## Day 15: April 28, 2022
+## Day 15: April 28, 2022
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
 32. :white_circle: [.js](Codewars/7-kyu/.js)
-33. :large_blue_circle: [.js](Codewars/7-kyu/.js) -->
+33. :large_blue_circle: [.js](Codewars/7-kyu/.js)
 
 
-<!-- ## Day 16: April 30, 2022
+## Day 16: April 30, 2022
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
 34. :white_circle: [.js](Codewars/8-kyu/.js)
-35. :large_blue_circle: [.js](Codewars/8-kyu/.js) -->
+35. :white_circle: [.js](Codewars/8-kyu/.js)
