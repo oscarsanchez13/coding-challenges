@@ -162,3 +162,11 @@ __Focus for today:__ 7 kyu problems
 #### Codewars
 32. :white_circle: [.js](Codewars/7-kyu/.js)
 33. :large_blue_circle: [.js](Codewars/7-kyu/.js) -->
+
+
+<!-- ## Day 16: April 30, 2022
+__Focus for today:__ 8 kyu problems
+
+#### Codewars
+34. :white_circle: [.js](Codewars/8-kyu/.js)
+35. :large_blue_circle: [.js](Codewars/8-kyu/.js) -->
