@@ -16,6 +16,7 @@ For example: (Input1, Input2) --> output
 ("22", "1") --> "1221"
 */
 
+// Solution 1
 function solution(a, b){
     if(a.length <= b.length){
       return a+b+a
@@ -23,3 +24,6 @@ function solution(a, b){
       return b+a+b
     }
 }
+
+// Solution 2: Ternary
+function solution(a,b){return a.length < b.length ? a+b+a : b+a+b}
