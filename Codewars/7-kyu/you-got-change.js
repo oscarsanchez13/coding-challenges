@@ -30,6 +30,46 @@ $10 bill, and 2 $100 bills.
 giveChange(217) // => [2,1,1,0,0,2]
 */
 
+// Solution 1
 function giveChange(amount) {
+    let change=[0,0,0,0,0,0];
+    while(amount>=100){
+    change[5]++
+    amount-=100
+    }
+    while(amount>=50){
+    change[4]++
+    amount-=50
+    }
+    while(amount>=20){
+    change[3]++
+    amount-=20
+    }
+    while(amount>=10){
+    change[2]++
+    amount-=10
+    }
+    while(amount>=5){
+    change[1]++
+    amount-=5
+    }
+    while(amount>=1){
+    change[0]++
+    amount-=1
+    }
+    return change
+}
+
+// Solution 2
+function giveChange (amount) {
+    let billTypes = [1, 5, 10, 20, 50, 100]
+    let change = [0, 0, 0, 0, 0, 0]
   
+    for (let i=5; i>=0; i--) {
+      while (amount >= billTypes[i]) {
+        amount -= billTypes[i]
+        change[i] += 1
+      }
+    }  
+    return change
 }
