@@ -185,5 +185,5 @@ __Focus for today:__ 5 kyu problems
 __Focus for today:__ 5 kyu problems
 
 #### Codewars
-38. :red_circle: [.js](Codewars/5-kyu/.js)
+38. :red_circle: [human-readable-time.js](Codewars/5-kyu/human-readable-time.js)
 39. :red_circle: [.js](Codewars/5-kyu/.js) -->
