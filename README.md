@@ -174,16 +174,16 @@ __Focus for today:__ 8 kyu problems
 
 
 <!-- ## Day 17: May 1, 2022
-__Focus for today:__ 8 kyu problems
+__Focus for today:__ 5 kyu problems
 
 #### Codewars
-36. :white_circle: [.js](Codewars/8-kyu/.js)
-37. :white_circle: [.js](Codewars/8-kyu/.js) -->
+36. :red_circle: [simple-pig-latin.js](Codewars/5-kyu/simple-pig-latin.js)
+37. :red_circle: [moving-zeros-to-the-end.js](Codewars/5-kyu/moving-zeros-to-the-end.js) -->
 
 
 <!-- ## Day 18: May 2, 2022
-__Focus for today:__ 8 kyu problems
+__Focus for today:__ 5 kyu problems
 
 #### Codewars
-38. :white_circle: [.js](Codewars/8-kyu/.js)
-39. :white_circle: [.js](Codewars/8-kyu/.js) -->
+38. :red_circle: [.js](Codewars/5-kyu/.js)
+39. :red_circle: [.js](Codewars/5-kyu/.js) -->
