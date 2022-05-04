@@ -187,3 +187,11 @@ __Focus for today:__ 5 kyu problems
 #### Codewars
 38. :red_circle: [human-readable-time.js](Codewars/5-kyu/human-readable-time.js)
 39. :red_circle: [valid-parentheses.js](Codewars/5-kyu/valid-parentheses.js) -->
+
+
+<!-- ## Day 19: May 3, 2022
+__Focus for today:__ 8 kyu problems
+
+#### Codewars
+40. :red_circle: [.js](Codewars/8-kyu/.js)
+41. :red_circle: [.js](Codewars/8-kyu/.js) -->
