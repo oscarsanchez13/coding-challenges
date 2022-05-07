@@ -153,7 +153,7 @@ __Focus for today:__ 6 kyu problems
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
-30. :white_circle: [.js](Codewars/7-kyu/.js)
+30. :white_circle: [vowel-count.js](Codewars/7-kyu/vowel-count.js)
 31. :large_blue_circle: [.js](Codewars/7-kyu/.js)
 
 
