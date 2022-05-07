@@ -147,14 +147,13 @@ __Focus for today:__ 6 kyu problems
 28. :large_blue_circle: [ip-validation.js](Codewars/6-kyu/ip-validation.js)
 29. :large_blue_circle: [return-a.js](Codewars/6-kyu/return-a.js)
 
-<!-- --------------------- FILL ---------------------- -->
 
 ## Day 14: April 25, 2022
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
 30. :white_circle: [vowel-count.js](Codewars/7-kyu/vowel-count.js)
-31. :large_blue_circle: [.js](Codewars/7-kyu/.js)
+31. :large_blue_circle: [dismvowel-trolls.js](Codewars/7-kyu/dismvowel-trolls.js)
 
 
 ## Day 15: April 28, 2022
@@ -173,21 +172,22 @@ __Focus for today:__ 8 kyu problems
 35. :white_circle: [even-or-odd.js](Codewars/8-kyu/even-or-odd.js)
 
 
-<!-- ## Day 17: May 1, 2022
+## Day 17: May 1, 2022
 __Focus for today:__ 5 kyu problems
 
 #### Codewars
 36. :red_circle: [simple-pig-latin.js](Codewars/5-kyu/simple-pig-latin.js)
-37. :red_circle: [moving-zeros-to-the-end.js](Codewars/5-kyu/moving-zeros-to-the-end.js) -->
+37. :red_circle: [moving-zeros-to-the-end.js](Codewars/5-kyu/moving-zeros-to-the-end.js)
 
 
-<!-- ## Day 18: May 2, 2022
+## Day 18: May 2, 2022
 __Focus for today:__ 5 kyu problems
 
 #### Codewars
 38. :red_circle: [human-readable-time.js](Codewars/5-kyu/human-readable-time.js)
-39. :red_circle: [valid-parentheses.js](Codewars/5-kyu/valid-parentheses.js) -->
+39. :red_circle: [valid-parentheses.js](Codewars/5-kyu/valid-parentheses.js)
 
+<!-- --------------------- FILL ---------------------- -->
 
 <!-- ## Day 19: May 3, 2022
 __Focus for today:__ 8 kyu problems
