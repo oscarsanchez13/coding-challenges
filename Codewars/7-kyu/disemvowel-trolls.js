@@ -14,5 +14,13 @@ become "Ths wbst s fr lsrs LL!".
 */
 
 function disemvowel(str) {
-    return str;
-}
+    let newStr = '';
+    let vowels = 'aeiouAEIOU';
+    let split = str.split('');
+    for(let i=0; i<split.length; i++){
+      if(!vowels.includes(split[i])){
+        newStr += split[i]
+      }
+    }
+    return newStr;
+  }
