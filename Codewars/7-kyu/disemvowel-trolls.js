@@ -13,6 +13,7 @@ For example, the string "This website is for losers LOL!" would
 become "Ths wbst s fr lsrs LL!".
 */
 
+// Solution 1
 function disemvowel(str) {
     let newStr = '';
     let vowels = 'aeiouAEIOU';
@@ -24,3 +25,8 @@ function disemvowel(str) {
     }
     return newStr;
   }
+
+// Solution 2
+function disemvowel(str) {
+  return str.replace(/[aeiou]/gi, '');
+}
