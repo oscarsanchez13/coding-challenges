@@ -21,6 +21,12 @@ Notes:
 4 <= n <= 50
 */
 
+// Solution 1
 function root(x, n) {
-    // TODO: Return nth root of x
-  }
+    return Math.pow(x, 1/n);
+}
+
+// Solution 2
+function root(x, n) {
+    return x ** (1/n)
+}
