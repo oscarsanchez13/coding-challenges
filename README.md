@@ -217,7 +217,7 @@ __Focus for today:__ 8 kyu problems
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
-46. :red_circle: [.js](Codewars/7-kyu/.js)
+46. :red_circle: [square-every-digit.js](Codewars/7-kyu/square-every-digit.js)
 47. :red_circle: [.js](Codewars/7-kyu/.js) -->
 
 
