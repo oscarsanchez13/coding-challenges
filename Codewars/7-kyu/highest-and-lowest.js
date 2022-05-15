@@ -16,6 +16,40 @@ Output string must be two numbers separated by a single space,
 and highest number is first.
 */
 
-function highAndLow(numbers){
-    // .
-  }
+// Solution 1 (Does NOT solve for any strings in array)
+function highAndLow(numbers) {
+    const arr = numbers.split(" ")
+    let maxNum = arr[0]
+    let minNum = arr[0]
+
+    for(let num of arr) {
+        if(Number(num) > maxNum) {
+            maxNum = num
+        }
+
+        if(Number(num) < minNum) {
+            minNum = num
+        }
+    }
+
+    return maxNum + " " + minNum
+}
+
+// Solution (Solves for string in array)
+function highAndLow(numbers) {
+    let arr = numbers.split(' ').filter(Number);
+    let onlyNums = arr.filter(Number);
+    let high = onlyNums[0];
+    let low = onlyNums[0];
+
+    for(let num of onlyNums) {
+        if(Number(num) > high) {
+            high = num;
+        }
+
+        if(Number(num) < low) {
+            low = num;
+        }
+    }
+    return high + " " + low;
+}
