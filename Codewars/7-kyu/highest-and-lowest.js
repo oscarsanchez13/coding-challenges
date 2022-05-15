@@ -17,5 +17,5 @@ and highest number is first.
 */
 
 function highAndLow(numbers){
-    // ...
+    // ..
   }
