@@ -14,5 +14,10 @@ Narcissistic Number.
 */
 
 function isNarcissistic(n){
-    //your code here
+    let arr = n.toString().split('');
+    let total = 0;
+    for(let i=0; i<arr.length; i++){
+      total += Number(arr[i]) ** arr.length;
+    }
+    return total === n;
 }
