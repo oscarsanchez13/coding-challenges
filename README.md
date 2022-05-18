@@ -187,22 +187,23 @@ __Focus for today:__ 5 kyu problems
 38. :red_circle: [human-readable-time.js](Codewars/5-kyu/human-readable-time.js)
 39. :red_circle: [valid-parentheses.js](Codewars/5-kyu/valid-parentheses.js)
 
-<!-- --------------------- FILL ---------------------- -->
 
-<!-- ## Day 19: May 3, 2022
+## Day 19: May 3, 2022
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
 40. :white_circle: [opposite-number.js](Codewars/8-kyu/opposite-number.js)
-41. :white_circle: [.js](Codewars/8-kyu/.js) -->
+41. :white_circle: [convert-a-number-to-a-string.js](Codewars/8-kyu/convert-a-number-to-a-string.js)
 
 
-<!-- ## Day 20: May 5, 2022
-__Focus for today:__ 8 kyu problems
+## Day 20: May 5, 2022 
+__Focus for today:__ 6 kyu problems
 
 #### Codewars
-42. :red_circle: [.js](Codewars/8-kyu/.js)
-43. :red_circle: [.js](Codewars/8-kyu/.js) -->
+42. :red_circle: [create-phone-number.js](Codewars/6-kyu/create-phone-number.js)
+43. :red_circle: [who-likes-it.js](Codewars/6-kyu/who-likes-it.js)
+
+<!-- --------------------- FILL ---------------------- -->
 
 
 <!-- ## Day 21: May 6, 2022
