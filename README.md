@@ -7,12 +7,12 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 22  
  :large_blue_circle: Medium: 13  
- :red_circle: Hard: 11  
+ :red_circle: Hard: 13  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 46    
+ __Total Challenges:__ 48    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -226,7 +226,9 @@ __Focus for today:__ 6 kyu problems
 48. :red_circle: [find-the-odd-int.js](Codewars/6-kyu/find-the-odd-int.js)
 49. :red_circle: [sum-of-digits.js](Codewars/6-kyu/sum-of-digits.js)
 
+
 <!-- --------------------- FILL ---------------------- -->
+
 
 <!-- ## Day 24: May 10, 2022
 __Focus for today:__ 7 kyu problems
