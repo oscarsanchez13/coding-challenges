@@ -15,6 +15,7 @@ Examples
 493193  -->  4 + 9 + 3 + 1 + 9 + 3 = 29
 */
 
+// Solution 1
 function digital_root(n) {
     let result = 0;
       let arr = String(n).split('');
@@ -22,4 +23,9 @@ function digital_root(n) {
         result += Number(arr[i])
       }  
     return String(result).length === 1 ? result : digital_root(result);
+}
+
+// Solution 2
+function digital_root(n) {
+    return (n - 1) % 9 + 1;
 }
