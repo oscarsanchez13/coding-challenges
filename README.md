@@ -219,15 +219,14 @@ __Focus for today:__ 7 kyu problems
 46. :red_circle: [square-every-digit.js](Codewars/7-kyu/square-every-digit.js)
 47. :red_circle: [highest-or-lowest.js](Codewars/7-kyu/highest-or-lowest.js)
 
-<!-- --------------------- FILL ---------------------- -->
-
-<!-- ## Day 23: May 9, 2022
+## Day 23: May 9, 2022
 __Focus for today:__ 6 kyu problems
 
 #### Codewars
 48. :red_circle: [find-the-odd-int.js](Codewars/6-kyu/find-the-odd-int.js)
-49. :red_circle: [.js](Codewars/6-kyu/.js) -->
+49. :red_circle: [sum-of-digits.js](Codewars/6-kyu/sum-of-digits.js)
 
+<!-- --------------------- FILL ---------------------- -->
 
 <!-- ## Day 24: May 10, 2022
 __Focus for today:__ 7 kyu problems
