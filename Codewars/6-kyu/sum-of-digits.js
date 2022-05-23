@@ -29,3 +29,6 @@ function digital_root(n) {
 function digital_root(n) {
     return (n - 1) % 9 + 1;
 }
+
+// Solution 3
+digital_root=(n)=>--n%9+1;
