@@ -33,5 +33,10 @@ Examples
 
 // Solution 1
 function isSquare(n){
-    return Math.sqrt(n) === parseInt(Math.sqrt(n)) ? true : false;
+    return Math.sqrt(n) === parseInt(Math.sqrt(n));
+}
+
+// Solution 2
+function isSquare(n) {
+    return Math.sqrt(n) % 1 === 0;
 }
