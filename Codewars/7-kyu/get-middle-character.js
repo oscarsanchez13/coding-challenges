@@ -19,5 +19,10 @@ getMiddle("A") should return "A"
 
 // Solution 1
 function getMiddle(s){
+    return s.length % 2 == 0 ? s[(s.length/2) - 1] + s[(s.length/2)] : s[parseInt(s.length/2)];
+}
+
+// Solution 2
+function getMiddle(s){
     return s.length % 2 ? s[parseInt(s.length/2)] : s[(s.length/2) - 1] + s[(s.length/2)];
 }
