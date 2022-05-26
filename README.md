@@ -235,15 +235,15 @@ __Focus for today:__ 7 kyu problems
 51. :white_circle: [get-middle-character.js](Codewars/7-kyu/get-middle-character.js)
 
 
-<!-- --------------------- FILL ---------------------- -->
-
-
 <!-- ## Day 25: May 12, 2022
 __Focus for today:__ 6 kyu problems
 
 #### Codewars
-52. :white_circle: [.js](Codewars/6-kyu/.js)
+52. :white_circle: [stop-spinning-my-words.js](Codewars/6-kyu/stop-spinning-my-words.js)
 53. :white_circle: [.js](Codewars/6-kyu/.js) -->
+
+
+<!-- --------------------- FILL ---------------------- -->
 
 
 <!-- ## Day 26: May 20, 2022
