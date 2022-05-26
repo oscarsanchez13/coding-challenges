@@ -5,14 +5,14 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 24  
+ :white_circle: Easy: 25  
  :large_blue_circle: Medium: 13  
- :red_circle: Hard: 13  
+ :red_circle: Hard: 14  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 50    
+ __Total Challenges:__ 52    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -235,12 +235,12 @@ __Focus for today:__ 7 kyu problems
 51. :white_circle: [get-middle-character.js](Codewars/7-kyu/get-middle-character.js)
 
 
-<!-- ## Day 25: May 12, 2022
+## Day 25: May 12, 2022
 __Focus for today:__ 6 kyu problems
 
 #### Codewars
 52. :white_circle: [stop-spinning-my-words.js](Codewars/6-kyu/stop-spinning-my-words.js)
-53. :white_circle: [.js](Codewars/6-kyu/.js) -->
+53. :red_circle: [array-diff.js](Codewars/6-kyu/array-diff.js)
 
 
 <!-- --------------------- FILL ---------------------- -->
