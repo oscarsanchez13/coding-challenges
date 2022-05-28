@@ -247,11 +247,11 @@ __Focus for today:__ 6 kyu problems
 
 
 <!-- ## Day 26: May 20, 2022
-__Focus for today:__ 8 kyu problems
+__Focus for today:__ 6 & 7 kyu problems
 
 #### Codewars
-54. :white_circle: [.js](Codewars/8-kyu/.js)
-55. :white_circle: [.js](Codewars/8-kyu/.js) -->
+54. :white_circle: [.js](Codewars/6-kyu/.js)
+55. :white_circle: [find-the-divisors.js](Codewars/7-kyu/find-the-divisors.js) -->
 
 
 <!-- ## Day 27: May 21, 2022
