@@ -5,14 +5,14 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 25  
- :large_blue_circle: Medium: 13  
+ :white_circle: Easy: 26  
+ :large_blue_circle: Medium: 14  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 52    
+ __Total Challenges:__ 54    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -243,15 +243,12 @@ __Focus for today:__ 6 kyu problems
 53. :red_circle: [array-diff.js](Codewars/6-kyu/array-diff.js)
 
 
-<!-- --------------------- FILL ---------------------- -->
-
-
-<!-- ## Day 26: May 20, 2022
+## Day 26: May 20, 2022
 __Focus for today:__ 6 & 7 kyu problems
 
 #### Codewars
-54. :white_circle: [is-a-number-prime.js](Codewars/6-kyu/is-a-number-prime.js)
-55. :white_circle: [find-the-divisors.js](Codewars/7-kyu/find-the-divisors.js) -->
+54. :large_blue_circle: [is-a-number-prime.js](Codewars/6-kyu/is-a-number-prime.js)
+55. :white_circle: [find-the-divisors.js](Codewars/7-kyu/find-the-divisors.js)
 
 
 <!-- ## Day 27: May 21, 2022
