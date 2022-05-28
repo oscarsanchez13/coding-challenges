@@ -20,3 +20,8 @@ make no mathematical sense.
 function makeNegative(num) {
     return num > 0 ? -num : num;
 }
+
+// Solution 2
+function makeNegative(num) {
+    return -Math.abs(num);
+}
