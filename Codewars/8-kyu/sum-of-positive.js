@@ -17,3 +17,8 @@ function positiveSum(arr) {
     }
     return sum;
 }
+
+// Solution 2 (Using Reduce)
+function positiveSum(arr) {
+    return arr.reduce((total,num)=> total + (num > 0 ? num : 0),0);
+}
