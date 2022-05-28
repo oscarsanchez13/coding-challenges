@@ -250,7 +250,7 @@ __Focus for today:__ 6 kyu problems
 __Focus for today:__ 6 & 7 kyu problems
 
 #### Codewars
-54. :white_circle: [.js](Codewars/6-kyu/.js)
+54. :white_circle: [is-a-number-prime.js](Codewars/6-kyu/is-a-number-prime.js)
 55. :white_circle: [find-the-divisors.js](Codewars/7-kyu/find-the-divisors.js) -->
 
 
