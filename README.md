@@ -5,14 +5,14 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 26  
+ :white_circle: Easy: 28 
  :large_blue_circle: Medium: 14  
  :red_circle: Hard: 14  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 54    
+ __Total Challenges:__ 56    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
