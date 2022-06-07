@@ -259,3 +259,12 @@ __Focus for today:__ 8 kyu problems
 57. :white_circle: [sum-of-positive.js](Codewars/8-kyu/sum-of-positive.js)
 
 
+<-- TBD -->
+
+
+## Day 27: May 21, 2022
+__Focus for today:__ 8 kyu problems
+
+#### Codewars
+56. :white_circle: [return-negative.js](Codewars/8-kyu/return-negative.js)
+57. :white_circle: [sum-of-positive.js](Codewars/8-kyu/sum-of-positive.js)
