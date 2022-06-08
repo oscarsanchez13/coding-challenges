@@ -263,5 +263,5 @@ __Focus for today:__ 8 kyu problems
 __Focus for today:__ 6 kyu problems
 
 #### Codewars
-58. :red_circle: [.js](Codewars/6-kyu/.js)
+58. :red_circle: [bit-counting.js](Codewars/6-kyu/bit-counting.js)
 59. :red_circle: [.js](Codewars/6-kyu/.js)
