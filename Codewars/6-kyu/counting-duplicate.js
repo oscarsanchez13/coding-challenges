@@ -19,6 +19,18 @@ twice
 "ABBA" -> 2 # 'A' and 'B' each occur twice
 */
 
+/* Solution 1 (Tallies up individual letter occurences and 
+returns total of duplicates) */
 function duplicateCount(text){
-    //...
+    let arr = text.toLowerCase().split('');
+    let count = {};
+    let total = 0;
+    arr.forEach((x) => {
+     count[x] = (count[x] || 0) + 1;
+     });
+    Object.values(count).forEach((y) => {
+     if(y > 1)
+     total++
+    })
+     return total;
 }
