@@ -39,3 +39,8 @@ function pigIt(str){
     }
     return newStr.join(' ');
 }
+
+// Solution 3 (RegExp)
+function pigIt(str){
+    return str.replace(/(\w)(\w*)(\s|$)/g, "\$2\$1ay\$3")
+}
