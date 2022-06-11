@@ -264,4 +264,12 @@ __Focus for today:__ 6 kyu problems
 
 #### Codewars
 58. :red_circle: [bit-counting.js](Codewars/6-kyu/bit-counting.js)
-59. :red_circle: [.js](Codewars/6-kyu/.js)
+59. :red_circle: [counting-duplicates.js](Codewars/6-kyu/counting-duplicates.js)
+
+
+<!-- ## Day 28: June 8, 2022
+__Focus for today:__ 6 kyu problems
+
+#### Codewars
+58. :red_circle: [bit-counting.js](Codewars/6-kyu/bit-counting.js)
+59. :red_circle: [counting-duplicates.js](Codewars/6-kyu/counting-duplicates.js) -->
