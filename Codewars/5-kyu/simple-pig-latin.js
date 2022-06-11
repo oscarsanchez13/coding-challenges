@@ -38,4 +38,4 @@ function pigIt(str){
       newStr.push(newWord);
     }
     return newStr.join(' ');
-  }
+}
