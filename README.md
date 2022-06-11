@@ -7,12 +7,12 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 28
  :large_blue_circle: Medium: 14  
- :red_circle: Hard: 14  
+ :red_circle: Hard: 16  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 56    
+ __Total Challenges:__ 58    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -267,9 +267,9 @@ __Focus for today:__ 6 kyu problems
 59. :red_circle: [counting-duplicates.js](Codewars/6-kyu/counting-duplicates.js)
 
 
-<!-- ## Day 28: June 8, 2022
-__Focus for today:__ 6 kyu problems
+<!-- ## Day 29: June 10, 2022
+__Focus for today:__ 5 kyu problems
 
 #### Codewars
-58. :red_circle: [bit-counting.js](Codewars/6-kyu/bit-counting.js)
-59. :red_circle: [counting-duplicates.js](Codewars/6-kyu/counting-duplicates.js) -->
+60. :red_circle: [.js](Codewars/5-kyu/.js)
+61. :red_circle: [.js](Codewars/5-kyu/.js) -->
