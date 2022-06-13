@@ -13,7 +13,6 @@ The maximum time never exceeds 359999 (99:59:59)
 You can find some examples in the test fixtures.
 */
 
-// Solution 1
 function humanReadable(x){
     let hh = Math.floor(x / 3600);
     let mm = Math.floor((((x % 31536000) % 86400) % 3600) / 60);
@@ -23,5 +22,3 @@ function humanReadable(x){
     hh < 10 ? hh = '0' + hh : hh;
     return `${hh}:${mm}:${ss}`;
 }
-
-// Solution 2
