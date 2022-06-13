@@ -267,9 +267,9 @@ __Focus for today:__ 6 kyu problems
 59. :red_circle: [counting-duplicates.js](Codewars/6-kyu/counting-duplicates.js)
 
 
-<!-- ## Day 29: June 10, 2022
+## Day 29: June 10, 2022
 __Focus for today:__ 5 kyu problems
 
 #### Codewars
-60. :red_circle: [.js](Codewars/5-kyu/.js)
-61. :red_circle: [.js](Codewars/5-kyu/.js) -->
+60. :red_circle: [moving-zeros-to-the-end.js](Codewars/5-kyu/moving-zeros-to-the-end.js)
+61. :red_circle: [simple-pig-latin.js](Codewars/5-kyu/simple-pig-latin.js)
