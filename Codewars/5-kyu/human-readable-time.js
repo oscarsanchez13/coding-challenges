@@ -18,9 +18,9 @@ function humanReadable(x){
     let hh = Math.floor(x / 3600);
     let mm = Math.floor((((x % 31536000) % 86400) % 3600) / 60);
     let ss = (((x % 31536000) % 86400) % 3600) % 60;
-    ss > 9 ? ss = '' + ss : ss = '0' + ss;
-    mm > 9 ? mm = '' + mm : mm = '0' + mm;
-    hh > 9 ? hh = '' + hh : hh = '0' + hh;
+    ss < 10 ? ss = '0' + ss : ss;
+    mm < 10 ? mm = '0' + mm : mm;
+    hh < 10 ? hh = '0' + hh : hh;
     return `${hh}:${mm}:${ss}`;
 }
 
