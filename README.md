@@ -7,12 +7,12 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 28
  :large_blue_circle: Medium: 14  
- :red_circle: Hard: 16  
+ :red_circle: Hard: 18  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
 
- __Total Challenges:__ 58    
+ __Total Challenges:__ 60    
  __Total Practice Interviews:__ 1
 
 <!-- Template for each day
@@ -273,3 +273,11 @@ __Focus for today:__ 5 kyu problems
 #### Codewars
 60. :red_circle: [moving-zeros-to-the-end.js](Codewars/5-kyu/moving-zeros-to-the-end.js)
 61. :red_circle: [simple-pig-latin.js](Codewars/5-kyu/simple-pig-latin.js)
+
+
+## Day 30: June 12, 2022
+__Focus for today:__ 5 kyu problems
+
+#### Codewars
+62. :red_circle: [.js](Codewars/5-kyu/.js)
+63. :red_circle: [.js](Codewars/5-kyu/.js)
