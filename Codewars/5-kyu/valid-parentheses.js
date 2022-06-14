@@ -15,7 +15,23 @@ Constraints
 0 <= input.length <= 100
 */
 
-function validParentheses(parens) {
-    // your code here ..
-    return false;
+// Solution 1
+function validParentheses(x){
+    let total = 0;  
+    for (let i = 0; i < x.length && total >= 0; i++) {
+      total += (x[i] == '(') ? 1 : -1;    
+    }  
+    return (total == 0);
+}
+
+/* Solution 2 (Varifies if theirs equal opening and closing 
+parenthesis but not if they're in order) */
+function validParentheses(x) {
+    let arr = x.split('');
+    let open = 0;
+    let close = 0;
+    for(let i=0; i<arr.length; i++){
+      arr[i] === '(' ? open++ : close++;
+    }
+    return open === close;
 }
