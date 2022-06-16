@@ -19,5 +19,5 @@ rgb(148, 0, 211) // returns 9400D3
 */
 
 function rgb(r, g, b){
-    // complete this function  
+    // complete this function. tbc. 
 }
