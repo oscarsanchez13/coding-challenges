@@ -7,7 +7,7 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 28
  :large_blue_circle: Medium: 14  
- :red_circle: Hard: 18  
+ :red_circle: Hard: 20  
  :black_circle: Very Hard: 0  
  :vs: Practice Interview: 1    
  :star: Good to review
