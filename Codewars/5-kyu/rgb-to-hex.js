@@ -20,31 +20,31 @@ rgb(148, 0, 211) // returns 9400D3
 
 // Solution 1 (BROKEN)
 function rgb(r, g, b){
-let result = '';
-let arr = [r,g,b];
-for(let i=0; i<arr.length; i++) {
-    if (arr[i] > 255) result += 'FF';
-    if (arr[i] < 0) result += '00';
+  let result = '';
+  let arr = [r,g,b];
+  for(let i=0; i<arr.length; i++) {
+    if (arr[i] > 255) {result += 'FF'; break;}
+    if (arr[i] < 0) {result += '00'; break;}
 
     switch (Math.floor(arr[i]/16)) {
-    case 10: result += 'A';break;
-    case 11: result += 'B';break;
-    case 12: result += 'C';break;
-    case 13: result += 'D';break;
-    case 14: result += 'E';break;
-    case 15: result += 'F';break;
-    default: result += (Math.floor(arr[i]/16) + '');
+    case 10: result += 'A'; break;
+    case 11: result += 'B'; break;
+    case 12: result += 'C'; break;
+    case 13: result += 'D'; break;
+    case 14: result += 'E'; break;
+    case 15: result += 'F'; break;
+    default: result += Math.floor(arr[i]/16);
     }
-    switch (((arr[i]/16)-16)*16) {
-    case 10: result += 'A';break;
-    case 11: result += 'B';break;
-    case 12: result += 'C';break;
-    case 13: result += 'D';break;
-    case 14: result += 'E';break;
-    case 15: result += 'F';break;
-    default: result += ((((arr[i]/16)-16)*16) + '');
+    switch (arr[i] % 16) {
+    case 10: result += 'A'; break;
+    case 11: result += 'B'; break;
+    case 12: result += 'C'; break;
+    case 13: result += 'D'; break;
+    case 14: result += 'E'; break;
+    case 15: result += 'F'; break;
+    default: result += arr[i] % 16;
     }
-}
+  }
 return result;
 }
 
