@@ -23,6 +23,9 @@ function rgb(r, g, b){
 let result = '';
 let arr = [r,g,b];
 for(let i=0; i<arr.length; i++) {
+    if (arr[i] > 255) result += 'FF';
+    if (arr[i] < 0) result += '00';
+
     switch (Math.floor(arr[i]/16)) {
     case 10: result += 'A';break;
     case 11: result += 'B';break;
