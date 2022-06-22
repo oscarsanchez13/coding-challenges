@@ -287,5 +287,5 @@ __Focus for today:__ 5 kyu problems
 __Focus for today:__ 5 kyu problems
 
 #### Codewars
-64. :red_circle: [.js](Codewars/5-kyu/.js)
-65. :red_circle: [.js](Codewars/5-kyu/.js)
+64. :red_circle: [rgb-to-hex.js](Codewars/5-kyu/rgb-to-hex.js)
+65. :red_circle: [where-my-anagrams-at.js](Codewars/5-kyu/where-my-anagrams-at.js)
