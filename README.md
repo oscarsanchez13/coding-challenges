@@ -295,5 +295,5 @@ __Focus for today:__ 5 kyu problems
 __Focus for today:__ 5 kyu problems
 
 #### Codewars
-66. :red_circle: [.js](Codewars/5-kyu/.js)
-67. :red_circle: [.js](Codewars/5-kyu/.js)
+66. :red_circle: [pick-peak.js](Codewars/5-kyu/pick-peak.js)
+67. :red_circle: [directions-reduction.js](Codewars/5-kyu/directions-reduction.js)
