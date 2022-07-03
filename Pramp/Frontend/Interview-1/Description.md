@@ -6,4 +6,4 @@ Build this layout, and describe the tradeoffs you’ve made in designing it.
 
 **Example:**
 
-![Example of Holy Grail Layout]()
+![Example of Holy Grail Layout](https://github.com/oscarsanchez13/coding-challenges/blob/main/Pramp/Frontend/Interview-1/Holy-Grail.png)
