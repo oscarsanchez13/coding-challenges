@@ -9,11 +9,11 @@ __Difficulty Levels solved__
  :large_blue_circle: Medium: 14  
  :red_circle: Hard: 24  
  :black_circle: Very Hard: 0  
- :vs: Practice Interview: 1    
+ :vs: Practice Interview: 2    
  :star: Good to review
 
  __Total Challenges:__ 66    
- __Total Practice Interviews:__ 1
+ __Total Practice Interviews:__ 2
 
 <!-- Template for each day
 
@@ -321,3 +321,10 @@ __Focus for today:__ 5 kyu problems
 #### Codewars
 72. :red_circle: [.js](Codewars/5-kyu/.js)
 73. :red_circle: [.js](Codewars/5-kyu/.js) -->
+
+
+## Day 36: July 2, 2022
+__Focus for today:__ Frontend Interview Preperation
+
+#### Pramp
+74. :vs: :star: [1-behavioral-interview.md](Pramp/Behavioral/interview-1.md)
