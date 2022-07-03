@@ -1,12 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Holy Grail</title>
+        <style>        
+        /* Add your styling below */
+        
+        html {
+	        font-family: 'Segoe UI', Segoe, Tahoma, sans-serif;
+	        font-size: 1rem;
+	        line-height: 1.44;
+        }
+
+        body {
+            margin: 0;	
+            font-size: 1.75rem;
+        }
+
+        .flexbox,
+        .flexbox-item {
+            display: -webkit-flex;
+            display: flex;			
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-align-items: center;
+            align-items: center;
+        }
+
+        .flexbox-item {
+            height: 80vh;
+        }
+
+        .header,
+        .footer {
+            height: 10vh;
+            color: #fff;
+            background-color: #666;
+            -webkit-transition: font-size 0.5s linear;
+            transition: font-size 0.5s linear;
+        }
+
+        .nav,
+        .aside {
+            -webkit-flex: none;
+            flex: none;
+            width: 180px;
+        }
+
+        .nav {
+            background-color: #77BBDD;
+        }
+
+        .aside {
+            background-color: #FF6633;
+        }
+
+        .section {
+            -webkit-flex: auto;
+            flex: auto;
+            width: auto;
+            background-color: #D6D6D6;
+        }
+
+        @media (max-width: 35em) {
+            .flexbox {
+                -webkit-flex-direction: column;
+                flex-direction: column;
+            }
+
+            .flexbox-item {
+                width: 100vw;
+                height: 26.6666667vh;
+            }
+
+            .header,
+            .footer {
+                font-size: 1.25rem;
+            }
+            
+            .nav {
+                -webkit-order: 3;
+                order: 3;
+            }
+
+            .section {
+                -webkit-order: 1;
+                order: 1;
+            }
+
+            .aside {
+                -webkit-order: 2;
+                order: 2;
+            }
+        }
+
+        .angleBrackets:before {
+            content: '<';
+        }
+
+        .angleBrackets:after {
+            content: '>';
+        }
+        </style>
+    </head>
+    <body>        
+        <!-- Add your markup below -->
+
+        <header class="header flexbox">
+            <span class="flexbox-item angleBrackets">header</span>
+        </header>
+        
+        <main class="flexbox">
+            <nav class="nav flexbox-item angleBrackets">nav</nav>
+            
+            <section class="section flexbox-item angleBrackets">section</section>
+            
+            <aside class="aside flexbox-item angleBrackets">aside</aside>
+        </main>
+        
+        <footer class="footer flexbox">
+            <span class="flexbox-item angleBrackets">footer</span>
+        </footer>
+    </body>
 </html>
