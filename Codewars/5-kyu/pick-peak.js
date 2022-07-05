@@ -33,6 +33,7 @@ pickPeaks([1, 2, 2, 2, 1]) returns {pos: [1], peaks: [2]}
 */
 
 function pickPeaks(arr){
-  
-    //  return {pos:[],peaks:[]}
+  let pos = [];
+  let peak = [];
+  return `{pos:${[...pos]},peaks:${[...peak]}}`
   }
