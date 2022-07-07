@@ -9,11 +9,11 @@ __Difficulty Levels solved__
  :large_blue_circle: Medium: 14  
  :red_circle: Hard: 24  
  :black_circle: Very Hard: 0  
- :vs: Practice Interview: 2    
+ :vs: Practice Interview: 3    
  :star: Good to review
 
  __Total Challenges:__ 66    
- __Total Practice Interviews:__ 2
+ __Total Practice Interviews:__ 3
 
 <!-- Template for each day
 
