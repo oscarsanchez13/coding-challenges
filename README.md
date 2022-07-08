@@ -327,4 +327,11 @@ __Focus for today:__ 5 kyu problems
 __Focus for today:__ Frontend Interview Preperation
 
 #### Pramp
-74. :vs: :star: [1-behavioral-interview.md](Pramp/Behavioral/interview-1.md)
+74. :vs: :star: [Solution.html](Pramp/Frontend/Interview-1)
+
+
+## Day 37: July 4, 2022
+__Focus for today:__ Frontend Interview Preperation
+
+#### Pramp
+75. :vs: :star: [Solution.html](Pramp/Frontend/Interview-2)
