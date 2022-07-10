@@ -5,7 +5,7 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 28 
+ :white_circle: Easy: 28
  :large_blue_circle: Medium: 14
  :red_circle: Hard: 24  
  :black_circle: Very Hard: 0  
