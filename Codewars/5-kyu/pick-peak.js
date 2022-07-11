@@ -32,8 +32,39 @@ beginning of the plateau. For example:
 pickPeaks([1, 2, 2, 2, 1]) returns {pos: [1], peaks: [2]}
 */
 
-function pickPeaks(arr){
-  let pos = [];
-  let peak = [];
-  return `{pos:${[...pos]},peaks:${[...peak]}}`
+// Solution 1
+function pickPeaks(arr) {
+    let result = { pos:[], peaks:[]};
+    for (let i = 1; i < arr.length-1; i++) {
+        let j = i+1;
+        while (arr[i] == arr[j] && j < arr.length) { j++; }
+        if (arr[i-1] < arr[i] && arr[i] > arr[j]) {
+          result.pos.push(i);
+          result.peaks.push(arr[i]);
+        }
+    }
+    return result
   }
+
+// Solution 2
+function pickPeaks(arr) {
+    var result = {
+        pos:[],
+        peaks:[]
+    };
+
+    if (arr.length > 2){
+        var pos = -1;
+        for (var i = 1; i<arr.length; i++){
+            if (arr[i]>arr[i-1]){
+                pos = i;
+            }
+            else if(arr[i] < arr[i-1] && pos != -1){
+                result.pos.push(pos);
+                result.peaks.push(arr[pos]);
+                pos = -1;
+            }
+        }
+    }
+    return result;
+}
