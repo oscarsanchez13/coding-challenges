@@ -300,15 +300,15 @@ __Focus for today:__ 5 kyu problems
 
 
 ## Day 33: June 25, 2022
-__Focus for today:__ 5 kyu problems
+__Focus for today:__ Mixed kyu problems
 
 #### Codewars
-68. :red_circle: [.js](Codewars/5-kyu/.js)
+68. :red_circle: [credit-card-mask.js](Codewars/7-kyu/credit-card-mask.js)
 69. :red_circle: [.js](Codewars/5-kyu/.js)
 
 
 ## Day 34: June 30, 2022
-__Focus for today:__ 5 kyu problems
+__Focus for today:__ Mixed kyu problems
 
 #### Codewars
 70. :red_circle: [.js](Codewars/5-kyu/.js)
@@ -316,7 +316,7 @@ __Focus for today:__ 5 kyu problems
 
 
 ## Day 35: June 31, 2022
-__Focus for today:__ 5 kyu problems
+__Focus for today:__ Mixed kyu problems
 
 #### Codewars
 72. :red_circle: [.js](Codewars/5-kyu/.js)
