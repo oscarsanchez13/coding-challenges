@@ -308,11 +308,11 @@ __Focus for today:__ Mixed kyu problems
 
 
 <!-- ## Day 34: June 30, 2022
-__Focus for today:__ Mixed kyu problems
+__Focus for today:__ 6 kyu problems
 
 #### Codewars
-70. :red_circle: [.js](Codewars/5-kyu/.js)
-71. :red_circle: [.js](Codewars/5-kyu/.js)
+70. :red_circle: [find-the-parity-outlier.js](Codewars/6-kyu/find-the-parity-outlier.js)
+71. :red_circle: [roman-numerals-decoder.js](Codewars/6-kyu/roman-numerals-decoder.js)
 
 
 ## Day 35: June 31, 2022
