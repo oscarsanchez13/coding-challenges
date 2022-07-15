@@ -320,7 +320,7 @@ __Focus for today:__ Mixed kyu problems
 
 #### Codewars
 72. :red_circle: [alphabet-symmetry.js](Codewars/7-kyu/alphabet-symmetry.js)
-73. :red_circle: [.js](Codewars/5-kyu/.js) -->
+73. :red_circle: [string-cleaning.js](Codewars/8-kyu/string-cleaning.js) -->
 
 
 ## Day 36: July 2, 2022
