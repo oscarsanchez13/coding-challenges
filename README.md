@@ -299,7 +299,7 @@ __Focus for today:__ 5 kyu problems
 67. :red_circle: [directions-reduction.js](Codewars/5-kyu/directions-reduction.js)
 
 
-## Day 33: June 25, 2022
+<!-- ## Day 33: June 25, 2022
 __Focus for today:__ Mixed kyu problems
 
 #### Codewars
@@ -307,7 +307,7 @@ __Focus for today:__ Mixed kyu problems
 69. :red_circle: [give-me-a-diamond.js](Codewars/6-kyu/give-me-a-diamond.js)
 
 
-<!-- ## Day 34: June 30, 2022
+## Day 34: June 30, 2022
 __Focus for today:__ 6 kyu problems
 
 #### Codewars
