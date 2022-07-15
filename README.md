@@ -319,7 +319,7 @@ __Focus for today:__ 6 kyu problems
 __Focus for today:__ Mixed kyu problems
 
 #### Codewars
-72. :red_circle: [.js](Codewars/5-kyu/.js)
+72. :red_circle: [alphabet-symmetry.js](Codewars/7-kyu/alphabet-symmetry.js)
 73. :red_circle: [.js](Codewars/5-kyu/.js) -->
 
 
