@@ -337,7 +337,7 @@ __Focus for today:__ Frontend Interview Preperation
 75. :vs: :star: [Solution.html](Pramp/Frontend/Interview-2)
 
 
-## Day 38: July 16, 2022
+<!-- ## Day 38: July 16, 2022
 __Focus for today:__ 5 kyu problems
 
 #### Codewars
@@ -350,4 +350,4 @@ __Focus for today:__ 5 kyu problems
 
 #### Codewars
 78. :red_circle: [.js](Codewars/5-kyu/.js)
-79. :red_circle: [.js](Codewars/5-kyu/.js)
+79. :red_circle: [.js](Codewars/5-kyu/.js) -->
