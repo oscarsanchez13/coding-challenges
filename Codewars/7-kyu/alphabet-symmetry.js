@@ -20,6 +20,9 @@ lowercase. No spaces.
 Good luck!
 */
 
+// Solution 1
 function solve(arr){  
     //code
 };
+
+// Solution 2
