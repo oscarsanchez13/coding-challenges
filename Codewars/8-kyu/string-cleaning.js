@@ -27,3 +27,8 @@ function stringClean(s){
 function stringClean(s){
     return s.replace(/[0-9]/g, '');
 }
+
+// Solution 3
+function stringClean(s){
+    return s.split('').filter((n) => n != parseInt(n)).join('');
+}
