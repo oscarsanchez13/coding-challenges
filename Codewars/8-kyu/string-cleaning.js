@@ -20,23 +20,10 @@ characters ~#$%^&!@*():;"'.,? all intact.
 
 // Solution 1 (Best Solution)
 function stringClean(s){
-    return s.replace(/\d/g, "");
+    return s.replace(/\d/g, '');
 }
 
 // Solution 2
 function stringClean(s){
-    //   let arr = s.split(' ');
-    //   let result = [];
-    //   for(let i=0; i<arr.length; i++){
-    //     let newArr = arr[i].split('')
-    //                        .replace('^[0-9]$','')
-    //                        .join('');
-    //     result.push(newArr);
-    //   }
-    //   return result.join(' ');
-      
-    //   return s.replace('[0-9]','');
-      
-      let nums = /[0-9]/g
-      return nums[Symbol.replace](s, '')
-    }
+    return s.replace(/[0-9]/g, '');
+}
