@@ -32,3 +32,12 @@ function stringClean(s){
 function stringClean(s){
     return s.split('').filter((n) => n != parseInt(n)).join('');
 }
+
+// Solution 4
+function stringClean(s){
+  let result = '';
+  for(let i=0;i<s.length;i++) {
+    if(isNaN(s[i])||s[i]==' ') result+=s[i]; 
+    }
+  return result;
+}
