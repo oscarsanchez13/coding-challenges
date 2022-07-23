@@ -26,3 +26,6 @@ function solve(arr){
 };
 
 // Solution 2
+
+
+// Solution 3
