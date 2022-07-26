@@ -359,3 +359,11 @@ __Focus for today:__ 5 kyu problems
 #### Codewars
 80. :red_circle: [.js](Codewars/5-kyu/.js)
 81. :red_circle: [.js](Codewars/5-kyu/.js)
+
+
+## Day 41: July 25, 2022
+__Focus for today:__ 5 kyu problems
+
+#### Codewars
+82. :red_circle: [.js](Codewars/5-kyu/.js)
+83. :red_circle: [.js](Codewars/5-kyu/.js)
