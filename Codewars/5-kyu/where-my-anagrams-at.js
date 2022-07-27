@@ -41,7 +41,7 @@ function anagrams(word, words) {
     let result = [];
     let letter = word.split('');
     for(let i=0; i<words.length; i++){
-      let currentWord = words[i].split('')
+      let currentWord = words[i].split('');
       if(currentWord.includes(letter[i]))
         result.push(words[i])
     }
