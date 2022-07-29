@@ -6,7 +6,7 @@ If you can, try and minimize the creation of new DOM elements in runtime, by reu
 
 **Example:**
 
-![Example of Flip Counter Layout]()
+![Example of Flip Counter Layout](Link Is Currently Unassigned)
 
 **Additional Questions**
 
