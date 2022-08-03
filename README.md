@@ -370,8 +370,8 @@ __Focus for today:__ 5 kyu problems
 
 
 ## Day 42: July 27, 2022
-__Focus for today:__ 5 kyu problems
+__Focus for today:__ 8 kyu problems
 
 #### Codewars
-84. :red_circle: [.js](Codewars/5-kyu/.js)
-85. :red_circle: [.js](Codewars/5-kyu/.js)
+84. :red_circle: [.js](Codewars/8-kyu/.js)
+85. :red_circle: [.js](Codewars/8-kyu/.js)
