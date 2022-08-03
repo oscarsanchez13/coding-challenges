@@ -22,7 +22,8 @@ Good luck!
 
 // Solution 1
 function solve(arr){  
-    //code
+    let alphabeth = "abcdefghijklmnopqrstuvwxyz";
+    return arr.map(x => x.toLowerCase().split('').filter((y,i) => i==alphabeth.indexOf(y)).length);
 };
 
 // Solution 2
