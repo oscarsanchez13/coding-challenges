@@ -42,5 +42,3 @@ function solve(arr){
     }
     return final
 };
-
-// Solution 3
