@@ -16,6 +16,9 @@ Should return: 11 (the only odd number)
 Should return: 160 (the only even number)
 */
 
+// Solution 1
 function findOutlier(integers){
     //your code here
 }
+
+// Solution 2
