@@ -35,8 +35,10 @@ A size 5 diamond:
 "  *\n ***\n*****\n ***\n  *\n"
 */
 
-
+// Solution 1
 function diamond(n){
   
     return diam;
 }
+
+// Solution 2
