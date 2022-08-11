@@ -22,6 +22,3 @@ function findOutlier(integers){
 }
 
 // Solution 2
-
-
-// Solution 3
