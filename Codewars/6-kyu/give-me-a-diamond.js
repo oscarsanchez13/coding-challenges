@@ -42,6 +42,3 @@ function diamond(n){
 }
 
 // Solution 2
-
-
-// Solution 3
