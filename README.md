@@ -386,5 +386,5 @@ __Focus for today:__ 8 kyu problems
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
-86. :red_circle: [.js](Codewars/8-kyu/.js)
-87. :red_circle: [.js](Codewars/8-kyu/.js) -->
+86. :blue_circle: [.js](Codewars/8-kyu/.js)
+87. :blue_circle: [.js](Codewars/8-kyu/.js) -->
