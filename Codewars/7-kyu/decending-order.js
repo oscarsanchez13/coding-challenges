@@ -17,6 +17,9 @@ Input: 123456789 Output: 987654321
 // Solution 1
 function descendingOrder(n){
     return Number(n.toString().split('').sort((a,b)=> b-a).join(''));
-  }
+}
 
 // Solution 2
+function descendingOrder(n){
+    return parseInt(String(n).split('').sort().reverse().join(''))
+}
