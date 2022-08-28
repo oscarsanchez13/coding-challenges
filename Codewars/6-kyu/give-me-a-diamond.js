@@ -50,5 +50,3 @@ function diamond(n) {
   }
   return diam;
 }
-
-// Solution 2
