@@ -33,8 +33,8 @@ function findOutlier(x){
 }
 
 // Solution 2
-function findOutlier(int){
-    let even = int.filter(a=>a%2==0);
-    let odd = int.filter(a=>a%2!==0);
+function findOutlier(x){
+    let even = x.filter(a=>a%2==0);
+    let odd = x.filter(a=>a%2!==0);
     return even.length==1? even[0] : odd[0];
 }
