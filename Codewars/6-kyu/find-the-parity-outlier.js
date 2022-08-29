@@ -17,8 +17,17 @@ Should return: 160 (the only even number)
 */
 
 // Solution 1
-function findOutlier(integers){
-    //your code here
-}
+function findOutlier(x){
+    let oddArr =[];
+    let evenArr = [];
+  
+    for(let i = 0; i< x.length; i++){
+      if(x[i] % 2 === 0){
+        evenArr.push(x[i]);
+      }else{
+        oddArr.push(x[i]);
+      }
+    }
 
-// Solution 2
+   return evenArr.length == 1 ? evenArr[0] : oddArr[0];
+}
