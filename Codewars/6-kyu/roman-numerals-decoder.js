@@ -27,7 +27,4 @@ D          500
 M          1,000
 */
 
-function solution (roman) {
-    
-      return 0;
-  }
+// Solution 1
