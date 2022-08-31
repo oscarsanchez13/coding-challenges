@@ -82,4 +82,3 @@ function solution(roman){
     
     return roman.match(/CM|CD|XC|XL|IX|IV|\w/g).reduce((accum, roman) => accum + conversion[roman], 0);
 }
-
