@@ -11,7 +11,7 @@ __Difficulty Levels solved__
 
  :red_circle: Hard: 24 
 
- :black_circle: Very Hard: 0 
+ :black_circle: Very Hard: 8 
  
  :vs: Practice Interview: 3    
 
