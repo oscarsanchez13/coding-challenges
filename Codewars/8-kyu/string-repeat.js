@@ -15,3 +15,11 @@ function repeatStr (n, s) {return s.repeat(n)}
 // Solution 2: Arrow function
 repeatStr = (n, s) => s.repeat(n)
 
+// Solution 3: Loop
+function repeatStr (n, s) {
+    let str="";
+    for(let i=0; i < n; i++){
+      str+=s;
+    }
+    return str;
+}
