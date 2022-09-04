@@ -346,8 +346,8 @@ __Focus for today:__ Frontend Interview Preperation
 __Focus for today:__ Mixed kyu problems
 
 #### Codewars
-76. :red_circle: [decending-order.js](Codewars/7-kyu/decending-order.js)
-77. :red_circle: [.js](Codewars/5-kyu/.js)
+76. :blue_circle: [decending-order.js](Codewars/7-kyu/decending-order.js)
+77. :white_circle: [string-repeat.js](Codewars/8-kyu/string-repeat.js)
 
 
 ## Day 39: July 17, 2022
