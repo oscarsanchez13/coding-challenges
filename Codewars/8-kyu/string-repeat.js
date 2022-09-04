@@ -11,3 +11,7 @@ Examples (input -> output)
 
 // Solution 1
 function repeatStr (n, s) {return s.repeat(n)}
+
+// Solution 2: Arrow function
+repeatStr = (n, s) => s.repeat(n)
+
