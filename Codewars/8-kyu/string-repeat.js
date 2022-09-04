@@ -9,6 +9,5 @@ Examples (input -> output)
 5, "Hello" -> "HelloHelloHelloHelloHello"
 */
 
-function repeatStr (n, s) {
-    return 'yellow';
-}
+// Solution 1
+function repeatStr (n, s) {return s.repeat(n)}
