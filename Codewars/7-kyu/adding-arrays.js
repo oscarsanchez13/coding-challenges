@@ -30,5 +30,3 @@ function arrAdder(arr) {
     }
     return result.trim()
 }
-
-// Solution 2

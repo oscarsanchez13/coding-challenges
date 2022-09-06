@@ -23,6 +23,7 @@ chain(2, [add, mult]);
 // returns 90;
 */
 
-function chain(input, fs) {
-    // implement the "chain" function
-    }
+// Solution 1 : IDK whats going on.
+function chain(v, fns) {
+  return fns.reduce(function(v, fn) { return fn(v) }, v);
+}
