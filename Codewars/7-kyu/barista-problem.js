@@ -72,6 +72,18 @@ function barista(coffees){
 
 // Solution 2
 function barista(coffees){
+    coffees = coffees.sort((a, b) => a - b);
+    let totalTime = 0;
+    let sum = 0;
+    for (let i = 0; i < coffees.length; i++) {
+      sum += (i === 0) ? coffees[i] : coffees[i] + 2;
+      totalTime += (i === 0) ? coffees[0] : sum;
+    }
+    return totalTime;
+}
+
+// Solution 3
+function barista(coffees){
     let cleanTime = 2
     let line = coffees.sort((a, b) => a - b)
     let time = 0
