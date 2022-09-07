@@ -358,7 +358,7 @@ __Focus for today:__ Mixed kyu problems
 79. :red_circle: [adding-arrays.js](Codewars/7-kyu/adding-arrays.js)
 
 
-<!-- ## Day 40: July 21, 2022
+## Day 40: July 21, 2022
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
@@ -366,7 +366,7 @@ __Focus for today:__ 7 kyu problems
 81. :red_circle: [barista-problems.js](Codewars/7-kyu/barista-problems.js)
 
 
-## Day 41: July 25, 2022
+<!-- ## Day 41: July 25, 2022
 __Focus for today:__ 5 kyu problems
 
 #### Codewars
