@@ -66,5 +66,6 @@ coffees = [4,3,2]       ->  22
 
 // Solution 1
 function barista(coffees){
-    return "Let's code!"
+    coffees.sort((a,b)=> a-b)
+    return coffees.reduce((acc, cookTime, i) => acc + cookTime * (coffees.length-i) + 2*i, 0)
 }
