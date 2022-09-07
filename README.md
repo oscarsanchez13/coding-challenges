@@ -363,7 +363,7 @@ __Focus for today:__ 7 kyu problems
 
 #### Codewars
 80. :red_circle: [chain-me.js](Codewars/7-kyu/chain-me.js)
-81. :red_circle: [.js](Codewars/7-kyu/.js)
+81. :red_circle: [barista-problems.js](Codewars/7-kyu/barista-problems.js)
 
 
 ## Day 41: July 25, 2022
