@@ -18,3 +18,5 @@ n	scORe n
 function score(n){
     // Good Luck!
 }
+
+// Solution 2
