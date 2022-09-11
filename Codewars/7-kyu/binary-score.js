@@ -30,3 +30,12 @@ function score(n){
     
     return n;
 }
+
+// Solution 3
+function score(n){
+    let s = 1;
+    while (s <= n) {
+      s *= 2;
+    }
+    return s - 1;
+}
