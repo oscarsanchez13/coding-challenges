@@ -16,7 +16,5 @@ n	scORe n
 
 // Solution 1
 function score(n){
-    // Good Luck!
-}
-
-// Solution 2
+    return n > 0 ? parseInt(n.toString(2).replace(/0/g, 1), 2) : 0;
+} 
