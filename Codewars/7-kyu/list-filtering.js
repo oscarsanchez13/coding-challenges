@@ -16,3 +16,13 @@ function filter_list(l) {
     // Return a new array with the strings filtered out
 }
 
+// Solution 2
+function filter_list(l) {
+    let result = [];
+    for(let i=0; i< l.length; i++){
+      if(l[i] * 1 === l[i]) {
+        result.push(l[i])
+        }
+    }
+    return result;
+}
