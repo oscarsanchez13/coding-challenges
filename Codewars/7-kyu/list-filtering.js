@@ -26,3 +26,13 @@ function filter_list(l) {
     }
     return result;
 }
+
+// Solution 3: Best Solution
+function filter_list(l) {
+    return l.filter(v => typeof v == "number")
+}
+
+// Solution 3: V2
+function filter_list(l) {
+    return l.filter(Number.isInteger);
+}  
