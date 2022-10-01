@@ -9,7 +9,7 @@ __Difficulty Levels solved__
 
  :large_blue_circle: Medium: 18
 
- :red_circle: Hard: 35
+ :red_circle: Hard: 41
 
  :black_circle: Very Hard: 8 
  
