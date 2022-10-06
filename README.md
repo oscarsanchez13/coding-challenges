@@ -316,7 +316,7 @@ __Focus for today:__ Mixed kyu problems
 __Focus for today:__ 6 kyu problems
 
 #### Codewars
-70. :red_circle: [find-the-parity-outlier.js](Codewars/6-kyu/find-the-parity-outlier.js)
+70. :red_circle: :star: [find-the-parity-outlier.js](Codewars/6-kyu/find-the-parity-outlier.js)
 71. :red_circle: [roman-numerals-decoder.js](Codewars/6-kyu/roman-numerals-decoder.js)
 
 
