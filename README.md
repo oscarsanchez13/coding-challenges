@@ -236,7 +236,7 @@ __Focus for today:__ 6 kyu problems
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
-50. :white_circle: [youre-a-square.js](Codewars/7-kyu/youre-a-square.js)
+50. :white_circle: :star: [youre-a-square.js](Codewars/7-kyu/youre-a-square.js)
 51. :white_circle: [get-middle-character.js](Codewars/7-kyu/get-middle-character.js)
 
 
