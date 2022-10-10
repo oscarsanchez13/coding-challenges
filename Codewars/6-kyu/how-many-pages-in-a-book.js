@@ -18,6 +18,14 @@ pages.
 All inputs will be valid.
 */
 
+// Solution 1
 function amountOfPages(summary){
-  
-}
+    if(summary <= 9) return summary
+    var count = 0;
+    var res = 0;
+    for(let i = 1; i<summary; i++){
+      count+=i.toString().length
+      if(count==summary) res = i
+    }
+    return res
+}  
