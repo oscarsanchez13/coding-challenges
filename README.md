@@ -371,7 +371,7 @@ __Focus for today:__ 7 kyu problems
 
 #### Codewars
 82. :blue_circle: [binary-score.js](Codewars/7-kyu/binary-score.js)
-83. :blue_circle: [.js](Codewars/7-kyu/.js)
+83. :blue_circle: [how-many-pages-in-a-book.js](Codewars/6-kyu/how-many-pages-in-a-book.js)
 
 
 ## Day 42: July 27, 2022
