@@ -35,5 +35,4 @@ function filter_list(l) {
 // Solution 3: V2
 function filter_list(l) {
     return l.filter(Number.isInteger);
-}  
-
+}
