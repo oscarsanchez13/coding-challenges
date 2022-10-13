@@ -366,7 +366,7 @@ __Focus for today:__ 7 kyu problems
 81. :red_circle: [barista-problems.js](Codewars/7-kyu/barista-problems.js)
 
 
-<!-- ## Day 41: July 25, 2022
+## Day 41: July 25, 2022
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
@@ -374,7 +374,7 @@ __Focus for today:__ 7 kyu problems
 83. :blue_circle: [how-many-pages-in-a-book.js](Codewars/6-kyu/how-many-pages-in-a-book.js)
 
 
-## Day 42: July 27, 2022
+<!-- ## Day 42: July 27, 2022
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
