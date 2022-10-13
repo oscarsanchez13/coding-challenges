@@ -11,6 +11,12 @@ Example:
 Note: the digits in the resulting string should be sorted.
 */
 
-function unusedDigits() {
-    return "";
-}
+// Solution 1 
+function unusedDigits(...n) {
+    let digits = n.join();
+    let numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    
+    return numbers
+      .filter(x => !digits.includes(x))
+      .join('');
+};
