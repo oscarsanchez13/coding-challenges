@@ -375,11 +375,11 @@ __Focus for today:__ 7 kyu problems
 
 
 <!-- ## Day 42: July 27, 2022
-__Focus for today:__ 8 kyu problems
+__Focus for today:__ 7 kyu problems
 
 #### Codewars
-84. :blue_circle: [.js](Codewars/8-kyu/.js)
-85. :blue_circle: [.js](Codewars/8-kyu/.js)
+84. :blue_circle: [filter-unused-digits.js](Codewars/7-kyu/filter-unused-digits.js)
+85. :blue_circle: [.js](Codewars/7-kyu/.js)
 
 
 ## Day 43: August 13, 2022
