@@ -36,3 +36,19 @@ function vowelIndices(word) {
   });
   return result;
 }
+
+// Solution 2
+function vowelIndices(word){
+  let result = [];
+  let arr = word.toLowerCase().split('');
+  for(let i=0; i < arr.length; i++){
+    if(arr[i] === 'a' || 
+       arr[i] === 'e' || 
+       arr[i] === 'i' || 
+       arr[i] === 'o' || 
+       arr[i] === 'u' || 
+       arr[i] === 'y') 
+      result.push(i + 1)    
+  }
+  return result;
+}
