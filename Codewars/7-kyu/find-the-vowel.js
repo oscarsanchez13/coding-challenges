@@ -18,6 +18,21 @@ case)
 This is indexed from [1..n] (not zero indexed!)
 */
 
-function vowelIndices(word){
-    //your code here
-  }
+// Solution 1
+function vowelIndices(word) {
+  let arr = word.toLowerCase().split('');
+  let result = [];
+  arr.forEach((x, i) => {
+    if (
+      x === "a" ||
+      x === "e" ||
+      x === "i" ||
+      x === "o" ||
+      x === "u" ||
+      x === "y"
+    ) {
+      result.push(i + 1);
+    }
+  });
+  return result;
+}
