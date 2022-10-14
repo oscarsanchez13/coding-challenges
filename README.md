@@ -378,8 +378,8 @@ __Focus for today:__ 7 kyu problems
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
-84. :blue_circle: [filter-unused-digits.js](Codewars/7-kyu/filter-unused-digits.js)
-85. :blue_circle: [.js](Codewars/7-kyu/.js)
+84. :white_circle: [filter-unused-digits.js](Codewars/7-kyu/filter-unused-digits.js)
+85. :white_circle: [find-the-vowel.js](Codewars/7-kyu/find-the-vowel.js)
 
 
 ## Day 43: August 13, 2022
