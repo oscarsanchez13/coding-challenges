@@ -52,3 +52,19 @@ function vowelIndices(word){
   }
   return result;
 }
+
+// Solution 3
+function vowelIndices(word){
+  let result = [];
+  let arr = word.toLowerCase().split('');
+  for(let i=0; i < arr.length; i++){
+    if(arr[i].includes('a') || 
+       arr[i].includes('e') || 
+       arr[i].includes('i') || 
+       arr[i].includes('o') || 
+       arr[i].includes('u') || 
+       arr[i].includes('y')) 
+      result.push(i + 1)    
+  }
+  return result;
+}
