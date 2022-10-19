@@ -12,6 +12,7 @@ n dollars, with 1 <= n <= 1500.
 Return that number, or -1 if it is impossible.
 */
 
+// Solution 1
 function solve(n) {
     // Your code here
   }
