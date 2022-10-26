@@ -23,4 +23,3 @@ function solve(n) {
   while(n>=10){count++;n-=10}
   return n===0?count:-1
 }
-
