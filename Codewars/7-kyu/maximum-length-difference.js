@@ -21,3 +21,6 @@ output: number as a string
 */
 
 // Solution 1
+function mxdiflg(a1, a2) {
+    // your code
+}
