@@ -383,11 +383,11 @@ __Focus for today:__ 7 kyu problems
 
 
 <!-- ## Day 43: August 13, 2022
-__Focus for today:__ 7 kyu problems
+__Focus for today:__ 8 & 7 kyu problems
 
 #### Codewars
 86. :white_circle: [atm.js](Codewars/7-kyu/atm.js)
-87. :white_circle: [.js](Codewars/7-kyu/.js)
+87. :white_circle: [.js](Codewars/8-kyu/.js)
 
 
 ## Day 44: August 13, 2022
