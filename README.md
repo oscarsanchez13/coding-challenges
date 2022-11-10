@@ -394,7 +394,7 @@ __Focus for today:__ 7 kyu problems
 __Focus for today:__ 7 & 8 kyu problems
 
 #### Codewars
-88. :white_circle: :star: [.js](Codewars/7-kyu/.js)
+88. :blue_circle: :star: [.js](Codewars/7-kyu/.js)
 89. :white_circle: [.js](Codewars/8-kyu/.js)
 
 
