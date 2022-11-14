@@ -398,9 +398,17 @@ __Focus for today:__ 7 & 8 kyu problems
 89. :white_circle: [.js](Codewars/8-kyu/.js)
 
 
-## Day 44: August 13, 2022
+## Day 45: August 13, 2022
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
-88. :blue_circle: [.js](Codewars/8-kyu/.js)
-89. :white_circle: [.js](Codewars/8-kyu/.js) -->
+90. :blue_circle: [.js](Codewars/8-kyu/.js)
+91. :white_circle: [.js](Codewars/8-kyu/.js) 
+
+
+## Day 46: November 14, 2022
+__Focus for today:__ 8 kyu problems
+
+#### Codewars
+92. :blue_circle: [.js](Codewars/8-kyu/.js)
+93. :white_circle: [.js](Codewars/8-kyu/.js)-->
