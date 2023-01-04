@@ -9,8 +9,22 @@ with less than two characters.
 
 // Solution 1
 function removeChar(str){
-    //You got this!
-};   
+ 
+    //checks if string is null or less than 2 characters
+    if(!str || str.length <= 2) return ''
+    
+    //transforms the string into an array, facilitates data manipulation
+    const newStr =  str.split('')
+    
+    //remove the last position in the array
+    newStr.pop()
+    
+    //removes the first position in the array
+    newStr.shift()
+    
+    
+    return newStr.join('') //returns a string
+};
 
 // Solution 2
 function removeChar(str) {
