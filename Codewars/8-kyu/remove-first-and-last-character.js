@@ -11,3 +11,8 @@ with less than two characters.
 function removeChar(str){
     //You got this!
 };   
+
+// Solution 2
+function removeChar(str) {
+    return str.slice(1, -1);
+}
