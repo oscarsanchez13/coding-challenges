@@ -7,7 +7,7 @@ __Difficulty Levels solved__
  
  :white_circle: Easy: 32
 
- :large_blue_circle: Medium: 13
+ :large_blue_circle: Medium: 14
 
  :red_circle: Hard: 36
 
@@ -418,5 +418,5 @@ __Focus for today:__ 8 kyu problems
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
-94. :blue_circle: [.js](Codewars/7-kyu/.js)
+94. :blue_circle: [categorize-new-member.js](Codewars/7-kyu/categorize-new-member.js)
 95. :white_circle: [.js](Codewars/7-kyu/.js)-->
