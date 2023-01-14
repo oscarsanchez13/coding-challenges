@@ -5,7 +5,7 @@ My solutions to coding interview problems on Codewars, HackerRank, Leetcode, Alg
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 32
+ :white_circle: Easy: 38
 
  :large_blue_circle: Medium: 14
 
@@ -17,7 +17,7 @@ __Difficulty Levels solved__
 
  :star: Good to review
 
- __Total Challenges:__ 93   
+ __Total Challenges:__ 99   
  __Total Practice Interviewsg:__ 3
 
 <!-- Template for each day
@@ -414,9 +414,9 @@ __Focus for today:__ 8 kyu problems
 93. :white_circle: [.js](Codewars/8-kyu/.js)
 
 
-<!-- ## Day 47: November 22, 2022
+## Day 47: November 22, 2022
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
 94. :blue_circle: [categorize-new-member.js](Codewars/7-kyu/categorize-new-member.js)
-95. :white_circle: [.js](Codewars/7-kyu/.js)-->
+95. :white_circle: [.js](Codewars/7-kyu/.js)
