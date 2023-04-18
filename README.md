@@ -398,7 +398,7 @@ __Focus for today:__ 7 & 8 kyu problems
 89. :white_circle: [remove-first-and-last-character.js](Codewars/8-kyu/remove-first-and-last-character.js)
 
 
-<--- ## Day 45: August 13, 2022
+## Day 45: August 13, 2022
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
@@ -406,7 +406,7 @@ __Focus for today:__ 8 kyu problems
 91. :white_circle: [square-sum.js](Codewars/8-kyu/square-sum.js) 
 
 
-## Day 46: November 14, 2022
+<--- ## Day 46: November 14, 2022
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
