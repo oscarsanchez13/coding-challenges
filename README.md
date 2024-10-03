@@ -346,7 +346,7 @@ __Focus for today:__ Frontend Interview Preperation
 __Focus for today:__ Mixed kyu problems
 
 #### Codewars
-76. :blue_circle: [decending-order.js](Codewars/7-kyu/decending-order.js)
+76. :large_blue_circle: [decending-order.js](Codewars/7-kyu/decending-order.js)
 77. :white_circle: [string-repeat.js](Codewars/8-kyu/string-repeat.js)
 
 
@@ -354,7 +354,7 @@ __Focus for today:__ Mixed kyu problems
 __Focus for today:__ Mixed kyu problems
 
 #### Codewars
-78. :blue_circle: [area-of-a-square.js](Codewars/8-kyu/area-of-a-square.js)
+78. :large_blue_circle: [area-of-a-square.js](Codewars/8-kyu/area-of-a-square.js)
 79. :red_circle: [adding-arrays.js](Codewars/7-kyu/adding-arrays.js)
 
 
@@ -370,8 +370,8 @@ __Focus for today:__ 7 kyu problems
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
-82. :blue_circle: [binary-score.js](Codewars/7-kyu/binary-score.js)
-83. :blue_circle: [how-many-pages-in-a-book.js](Codewars/6-kyu/how-many-pages-in-a-book.js)
+82. :large_blue_circle: [binary-score.js](Codewars/7-kyu/binary-score.js)
+83. :large_blue_circle: [how-many-pages-in-a-book.js](Codewars/6-kyu/how-many-pages-in-a-book.js)
 
 
 ## Day 42: July 27, 2022
@@ -387,14 +387,14 @@ __Focus for today:__ 7 kyu problems
 
 #### Codewars
 86. :white_circle: [atm.js](Codewars/7-kyu/atm.js)
-87. :blue_circle: [maximum-length-difference.js](Codewars/7-kyu/maximum-length-difference.js)
+87. :large_blue_circle: [maximum-length-difference.js](Codewars/7-kyu/maximum-length-difference.js)
 
 
 ## Day 44: August 13, 2022
 __Focus for today:__ 7 & 8 kyu problems
 
 #### Codewars
-88. :blue_circle: :star: [x-marks-the-spot.js](Codewars/7-kyu/x-marks-the-spot.js)
+88. :large_blue_circle: :star: [x-marks-the-spot.js](Codewars/7-kyu/x-marks-the-spot.js)
 89. :white_circle: [remove-first-and-last-character.js](Codewars/8-kyu/remove-first-and-last-character.js)
 
 
@@ -402,7 +402,7 @@ __Focus for today:__ 7 & 8 kyu problems
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
-90. :blue_circle: [.js](Codewars/8-kyu/.js)
+90. :large_blue_circle: [.js](Codewars/8-kyu/.js)
 91. :white_circle: [square-sum.js](Codewars/8-kyu/square-sum.js) 
 
 
@@ -410,7 +410,7 @@ __Focus for today:__ 8 kyu problems
 __Focus for today:__ 8 kyu problems
 
 #### Codewars
-92. :blue_circle: [.js](Codewars/8-kyu/.js)
+92. :large_blue_circle: [.js](Codewars/8-kyu/.js)
 93. :white_circle: [.js](Codewars/8-kyu/.js)
 
 
@@ -418,5 +418,5 @@ __Focus for today:__ 8 kyu problems
 __Focus for today:__ 7 kyu problems
 
 #### Codewars
-94. :blue_circle: [categorize-new-member.js](Codewars/7-kyu/categorize-new-member.js)
+94. :large_blue_circle: [categorize-new-member.js](Codewars/7-kyu/categorize-new-member.js)
 95. :white_circle: [.js](Codewars/7-kyu/.js) --->
