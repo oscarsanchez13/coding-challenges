@@ -17,7 +17,7 @@ __Difficulty Levels solved__
 
  :star: Good to review
 
- __Total Challenges:__ 99   
+ __Total Challenges:__ 92   
  __Total Practice Interviews:__ 3
 
 <!-- Template for each day
